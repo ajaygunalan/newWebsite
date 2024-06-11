@@ -1,3 +1,9 @@
+---
+title: Humanoid 
+---
+
+
+
 The task was to develop a [service robot](https://www.youtube.com/watch?v=5vjY1c8N1rk) at [Asimov Robotics](https://www.asimovrobotics.com/) for private bank in India.
 
   ![[Projects/00Past/images/asimov.jpg]]

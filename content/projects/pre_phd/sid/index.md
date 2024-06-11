@@ -1,6 +1,5 @@
 ---
 title: Medical Device
-author: 
 ---
 
 

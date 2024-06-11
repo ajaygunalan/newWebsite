@@ -1,3 +1,8 @@
+---
+title: Legged Robot
+---
+
+
 ![[Projects/00Past/images/stoch.gif]]
 
 ### Problem Statement
