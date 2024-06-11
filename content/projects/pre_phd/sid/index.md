@@ -15,7 +15,7 @@ The goal is to prevent such accident by automating this process by using a liqui
 
 ### How we did 
 
-We prototyped our ideation by using [[C]], [[Embedded System]] (texas instruments components). The following video shows the working and feedback from **medical doctors**. 
+We prototyped our ideation by using Embedded System. The following video shows the working and feedback from **medical doctors**. 
 
 <center><iframe  class="video" align="midd"  src="https://www.youtube.com/embed/khT5Q_kSM-M?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
