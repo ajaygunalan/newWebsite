@@ -54,7 +54,7 @@ consequat."
     profileMode:
           enabled: true
           title: Professor Dr von Igelfeld
-          subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
+          subtitle: "I’m a Ph.D. student at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of novel laser technologies for micro-surgical robots. My previous experiences include developing  [[Medical Device]], [[Humanoid]], [[Legged Robot]], and [[Tele-Robotics]].  My vision is to make healthcare affordable by merging medicine and engineering. In this process, I love working with a diverse team to develop transformative tech and solve new challenges each day.."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
