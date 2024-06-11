@@ -64,7 +64,7 @@ params:
           I firmly believe that when Robots and AI automate all jobs and work. It will be a massive blessing for humanity as we need not work ever; instead, we can do whatever we love! **Isn't that lovely?** 
           
           "    
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Ajay Gunalan
@@ -88,7 +88,7 @@ params:
         - name: Email
           url: mailto:ajay.gunalan@pm.me
         - name: CV
-          url: cv.pdf
+          url: ajayg_cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=mYcXHpgAAAAJ&view_op=list_works&sortby=pubdate
         - name: Location
