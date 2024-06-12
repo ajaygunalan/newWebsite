@@ -2,7 +2,6 @@
 ---
 title: "Humanoid" 
 summary: "Developed a service robot at Asimov Robotics for a private bank in India, utilizing advanced hardware and software technologies for interactive tasks and navigation."
-image: "/newWebsite/projects/asimov.jpg"
 
 ---
 
