@@ -11,18 +11,6 @@ taxonomies:
 
 menu:
     main:
-        # - name: Books
-        #   url: books/
-        #   weight: 1 
-        # - name: Papers
-        #   url: papers/
-        #   weight: 2
-        # - name: Courses
-        #   url: courses/
-        #   weight: 3
-        # - name: Data
-        #   url: data/
-          # weight: 4
         - name: Projects
           url: projects/
           weight: 1 
@@ -81,23 +69,13 @@ params:
           buttons:
             - name: Pojetcs
               url: projects/
-            #- name: Papers
-            #  url: papers/
-            # - name: Courses
-            #   url: courses/
-            # - name: Data
-            #   url: data/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
             - name: Blog
               url: blogs/
+            - name: CV
+              url: ajayg_cv.pdf
     socialIcons:
         - name: Email
           url: mailto:ajay.gunalan@pm.me
-        - name: CV
-          url: ajayg_cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=mYcXHpgAAAAJ&view_op=list_works&sortby=pubdate
         #- name: Location
@@ -118,7 +96,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Ajay Gunalan"
       icon: favicon.ico
       iconHeight: 18
 
