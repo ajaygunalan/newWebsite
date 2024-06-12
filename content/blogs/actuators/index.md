@@ -1,5 +1,6 @@
 ---
 title: Actuators for dexterous and agile robots
+summary: "Explored the critical role of electromagnetic actuators (motors) in robotics, emphasizing the need for compliant, back-drivable, energy-efficient, and force-transparent designs. Discussed factors like gearbox limitations, motor control loops, passive compliance, and the advantages of pancake-shaped brushless motors for optimizing robotic performance and dynamic maneuvers."
 ---
 
 
