@@ -1,7 +1,7 @@
 
 ---
 title: "Humanoid" 
-summary: "Developed a service robot at Asimov Robotics for a private bank in India, utilizing advanced hardware and software technologies for interactive tasks and navigation."
+summary: "Developed a service robot at Asimov Robotics for a private bank in India, involving hardware integration with Dynamixel servos and Hokuyo laser, and software architecture using ROS and smach, focusing on tasks like gestures, navigation, and sensor integration."
 
 ---
 

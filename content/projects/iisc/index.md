@@ -1,5 +1,7 @@
 ---
 title: Legged Robot
+summary: "Developed a robust, all-terrain quadruped robot using carbon fiber tubes, 3D printed components, and servo-motors, achieving various gaits through Proximal Policy Optimization in simulation and hardware deployment, inspired by Google's agile locomotion research."
+
 ---
 
 ![](/newWebsite/projects/stoch.gif)

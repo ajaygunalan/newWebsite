@@ -1,5 +1,6 @@
 ---
 title: Tele-Robotics
+summary: "Developed real-time audio, video, and point cloud streaming for tele-operated robots in virtual reality using ROS services, Multi-Threading in C++, and sensor integration with Nvidia Jetson, enhancing the user interface for remote operations."
 ---
 
 
