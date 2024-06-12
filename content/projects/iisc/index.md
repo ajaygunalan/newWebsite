@@ -4,7 +4,7 @@ summary: "Developed a robust, all-terrain quadruped robot using carbon fiber tub
 
 ---
 
-![](/newWebsite/projects/stoch.gif)
+![](/projects/stoch.gif)
 
 
 ### Problem Statement
@@ -50,7 +50,7 @@ Well, getting accurate model is vital, it is not a trivial task, for example, go
 
 ### Version 2.0 
 
-![](/newWebsite/projects/stoch2leg.gif)
+![](/projects/stoch2leg.gif)
 
 
 
@@ -60,4 +60,4 @@ Well, getting accurate model is vital, it is not a trivial task, for example, go
 Team Members: [Shounak Bhattachary](https://sites.google.com/view/shounakoffice/home), [Dhaivat Dholakiya](https://sites.google.com/view/dhaivatdh/home), [Abhik Singla](https://sites.google.com/view/abhiksingla/home) and [myself](https://ajaygunalan.github.io/). Principal Investigators: [Dr. Shishir N. Y. Kolathaya](https://shishirny.github.io/),  [Prof. Bharadwaj Amrutur](http://www.cense.iisc.ac.in/bharadwaj-amrutur). I would like to specially thank **Shishir** and **Prof. Bharadwaj**, for giving me a wonderful oppourtinity to work in this project.
 
 
-![](/newWebsite/projects/stcohTeam.jpg)
+![](/projects/stcohTeam.jpg)
