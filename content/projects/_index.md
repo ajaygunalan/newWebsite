@@ -1,6 +1,4 @@
 ---
-
-title: "Projects"
-description: "Project and their descritpion"
-
+title: "Papers"
+description: "Preprints and articles on this website."
 ---
