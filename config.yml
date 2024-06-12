@@ -55,8 +55,8 @@ params:
           enabled: true
           title: Ajay Gunalan
           subtitle: "
-          I'm a Ph.D. student at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of novel laser technologies for micro-surgical robots. 
-          My previous experiences include developing [medical device](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/sid/), [humanoid](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/asimov/), [legged robot](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/iisc/), and [tele-robotics](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/telerobo/). 
+          I'm a Ph.D. student at the [<u> Italian Institute of Technology](https://iit.it/). My current research focuses on the development of novel laser technologies for micro-surgical robots. 
+          My previous experiences include developing [medical device](<u> https://ajaygunalan.github.io/newWebsite/projects/pre_phd/sid/), [<u> humanoid](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/asimov/), [<u> legged robot](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/iisc/), and [<u> tele-robotics](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/telerobo/). 
           
           <br><br> 
           My vision is to make healthcare affordable by merging medicine and engineering. In this process, I love working with a diverse team to develop transformative tech and solve new challenges each day.
