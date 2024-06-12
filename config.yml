@@ -55,6 +55,9 @@ params:
           enabled: true
           title: Ajay Gunalan
           subtitle: "
+          > *What I cannot create, I do not understand — Richard Feynman.*
+
+          <br><br> 
           I'm a Ph.D. student at the [<u>Italian Institute of Technology</u>](https://iit.it/). My current research focuses on the development of novel laser technologies for micro-surgical robots. 
           My previous experiences include developing [<u>medical device</u>](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/sid/), [<u>humanoid</u>](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/asimov/), [<u>legged robot</u>](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/iisc/), and [<u>tele-robotics</u>](https://ajaygunalan.github.io/newWebsite/projects/pre_phd/telerobo/). 
           
@@ -70,21 +73,20 @@ params:
           imageHeight: 160
           imageTitle: Ajay Gunalan
           buttons:
-            - name: Books
-              url: books/
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Pojetcs
+              url: projects/
+            #- name: Papers
+            #  url: papers/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
+              url: blogs/
     socialIcons:
         - name: Email
           url: mailto:ajay.gunalan@pm.me
