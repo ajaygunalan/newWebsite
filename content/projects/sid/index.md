@@ -1,7 +1,7 @@
 ---
 title: Medical Device
 summary: "Developed an automated intravenous dripper system using a liquid-level sensor and servo-actuated cam to prevent reverse blood flow and air embolism, enhancing safety and notifying medical staff for timely replacements. The project was a finalist in the India Innovation Challenge Design Contest 2016 and led to the founding of Rekindle Automation Pvt. Ltd."
-
+date: 2024-07
 ---
 
 
