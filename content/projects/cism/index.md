@@ -1,7 +1,7 @@
 ---
 title: "Compressive Image Scanning Microscope" 
 summary: "Laser scanning image with 25% of photons"  
-date: 2023-07
+date: 2023-07-01
 
 ---
 
