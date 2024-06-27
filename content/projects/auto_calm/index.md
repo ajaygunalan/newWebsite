@@ -1,6 +1,6 @@
 ---
 title: "Auto-CALM: Autonomous Computer-Assisted Laser Microsurgery" 
-summary: "Autonomous Laser Surgery with Laser Spot Tracking and Target Trackingh"  
+summary: "Autonomous Laser Surgery. It has three significant components: Laser Spot Tracking, Target Tracking, and Ablation algorithm."  
 date: 2024-06-01
 
 ---
