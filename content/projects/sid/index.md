@@ -5,6 +5,8 @@ date: 2016-05-01
 
 ---
 
+  ![](/projects/sid.png)
+
 
 ### Problem Statement
 
